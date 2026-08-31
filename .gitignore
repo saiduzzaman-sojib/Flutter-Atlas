@@ -1,0 +1,17 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Flutter / Dart specific
+.dart_tool/
+.pub-cache/
+.pubspec.lock
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
