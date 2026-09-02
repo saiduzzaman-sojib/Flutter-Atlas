@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice/module_9/class_3.dart';
+import 'package:flutter_practice/module_10/class_1.dart';
+
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -8,8 +9,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Practice App',
-      home: Class3(),
+      home: Module10Class1(
+      ),
     );
   }
 }
