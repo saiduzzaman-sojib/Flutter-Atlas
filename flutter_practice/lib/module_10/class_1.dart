@@ -76,6 +76,53 @@ class Module10Class1 extends StatelessWidget {
               // SnackBar(content: Text(phoneController.text)));
               //print(phoneController.text);
             }, child: Text('Submit')),
+            SizedBox(
+              height: 30,
+            ),
+            Container(
+              alignment: Alignment.center,
+              //color: Colors.deepOrange,
+              height: 70,
+              width: 200,
+              decoration: BoxDecoration(
+                color: Colors.orangeAccent,
+                borderRadius: BorderRadius.circular(20),
+                border : Border.all(
+                  width: 5,
+                  color: Colors.black,
+                )
+              ),
+              child: Text('Container Text'),
+            ),
+            SizedBox(
+              height: 30,
+            ),
+            Container(
+              alignment: Alignment.center,
+              //color: Colors.deepOrange,
+              height: 70,
+              width: 200,
+              decoration: BoxDecoration(
+                color: Colors.red,
+                borderRadius: BorderRadius.circular(20),
+                border : Border.all(
+                  width: 5,
+                  color: Colors.black,
+                ),
+                boxShadow: [
+                  BoxShadow(
+                  color: Colors.blue,
+                  offset: Offset(4, 10),
+                ),
+                  BoxShadow(
+                  color: Colors.deepPurple,
+                  offset: Offset(-10, -10),
+                ),
+                ],
+                
+              ),
+              child: Text('Container Text 2'),
+            ),
           ],
         )
       )
