@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice/module_10/class_1.dart';
+import 'package:flutter_practice/module_10/class_2.dart';
 
 
 class MyApp extends StatelessWidget {
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Practice App',
-      home: Module10Class1(
+      home: Module10Class2(
       ),
     );
   }
