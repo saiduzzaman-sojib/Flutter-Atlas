@@ -7,7 +7,7 @@ class Module10Class2 extends StatelessWidget {
   Widget build(BuildContext context) {
     TextEditingController phoneController =TextEditingController();
     TextEditingController passwordController =TextEditingController();
-    final _formKey =GlobalKey<FormState>();
+    final formKey =GlobalKey<FormState>();
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
@@ -18,7 +18,7 @@ class Module10Class2 extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.all(6.0),
         child: Form(
-          key: _formKey,
+          key: formKey,
           child: Column(
             mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.center,
@@ -125,7 +125,7 @@ class Module10Class2 extends StatelessWidget {
                     
                   ),
                   onPressed: (){
-                   if(_formKey.currentState!.validate()){
+                   if(formKey.currentState!.validate()){
                        ScaffoldMessenger.of(context).showSnackBar(
                       SnackBar(content: Text('Login Success')));
                    }

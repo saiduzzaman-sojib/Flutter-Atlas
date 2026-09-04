@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice/module_10/class_2.dart';
+import 'package:flutter_practice/module_10/class_3.dart';
 
 
 class MyApp extends StatelessWidget {
@@ -9,9 +9,15 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return MaterialApp(
+      theme: ThemeData(
+        brightness: Brightness.light,
+        primaryColor: Colors.grey,
+        primarySwatch: Colors.lime,
+        scaffoldBackgroundColor: Colors.deepOrange.shade50,
+      ),
       debugShowCheckedModeBanner: false,
       title: 'Practice App',
-      home: Module10Class2(
+      home: Module10Class3(
       ),
     );
   }
