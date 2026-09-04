@@ -27,11 +27,10 @@ Here is a glimpse of the core modules I have been practicing recently:
 
 <br>
 
-| 🔹 Module 10 (Class 2): Advanced Forms & Login | 🔹 Next Module: Coming Soon 🚀 |
+| 🔹 Module 10 (Class 2): Advanced Forms & Login | 🔹 Module 10 (Class 3): Responsive UI |
 | :---: | :---: |
-|<img src="https://github.com/user-attachments/assets/65093ca0-0a9d-48a7-98da-1770d310170e" width="400" />|<br><br><br>⏳<br><br><br>|
-| **Concepts:**<br/>`Form`,` Validation`, `TextFormField`, `GlobalKey`, `SnackBar` alert, `Image.asset`, `obscureText`, and `InkWell`. | **Concepts:**<br/>`New exciting features are on the way!` |
-
+|<img src="https://github.com/user-attachments/assets/65093ca0-0a9d-48a7-98da-1770d310170e" width="400" />|<img src="https://github.com/user-attachments/assets/62e7a738-a903-49f2-80ad-96bae8720a3e" width="400" />
+| **Concepts:**<br/>`Form`,` Validation`, `TextFormField`, `GlobalKey`, `SnackBar` alert, `Image.asset`, `obscureText`, and `InkWell`. | **Concepts:**<br/>`MediaQuery`, `Orientation` `handling`, `Ternary operators,` and `Dynamic Layout` (`Row` vs `Column`). |
 ---
 
 ## 🛠️ Tech Stack & Tools
