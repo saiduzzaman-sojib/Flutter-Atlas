@@ -27,6 +27,10 @@ Here is a glimpse of the core modules I have been practicing recently:
 
 <br>
 
+| 🔹 Module 10 (Class 2): Advanced Forms & Login | 🔹 Next Module: Coming Soon 🚀 |
+| :---: | :---: |
+|<img src="https://github.com/user-attachments/assets/65093ca0-0a9d-48a7-98da-1770d310170e" width="400" />|<br><br><br>⏳<br><br><br>|
+| **Concepts:**<br/>`Form`,` Validation`, `TextFormField`, `GlobalKey`, `SnackBar` alert, `Image.asset`, `obscureText`, and `InkWell`. | **Concepts:**<br/>`New exciting features are on the way!` |
 
 ---
 
