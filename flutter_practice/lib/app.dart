@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_practice/module_11/class_1.dart';
+import 'package:flutter_practice/module_11/gridV.dart';
 
 
 class MyApp extends StatelessWidget {
@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
 
       debugShowCheckedModeBanner: false,
       title: 'Practice App',
-      home: Module11Class1(
+      home: GridV(
       ),
     );
   }
