@@ -39,6 +39,14 @@ Here is a glimpse of the core modules I have been practicing recently:
 |<img src="https://github.com/user-attachments/assets/74b19148-66d9-4963-8a0b-197d7f523932" width="400"/>|<img src="https://github.com/user-attachments/assets/25621e1d-32af-420d-bd30-0fbf74576f61" width="400" />
 | **Concepts:**<br/>`ListView.builder`, `itemCount`, `itemBuilder`, `Card`, `ListTile`, `leading`, and `trailing`. | **Concepts:**<br/>`GridView.builder`, `SliverGridDelegateWithFixedCrossAxisCount`, `crossAxisCount`, and `grid styling`. |
 
+...
+
+<br>
+<div align="center">
+  <h3><a href="Previous_Modules.md">Click here to view all Previous Modules & Archives</a> </h3>
+</div>
+<br>
+
 ## 🛠️ Tech Stack & Tools
 
 *   **Language:** Dart
