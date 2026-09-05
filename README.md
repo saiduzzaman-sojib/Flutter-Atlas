@@ -31,6 +31,13 @@ Here is a glimpse of the core modules I have been practicing recently:
 | :---: | :---: |
 |<img src="https://github.com/user-attachments/assets/65093ca0-0a9d-48a7-98da-1770d310170e" width="400" />|<img src="https://github.com/user-attachments/assets/62e7a738-a903-49f2-80ad-96bae8720a3e" width="400" />
 | **Concepts:**<br/>`Form`,` Validation`, `TextFormField`, `GlobalKey`, `SnackBar` alert, `Image.asset`, `obscureText`, and `InkWell`. | **Concepts:**<br/>`MediaQuery`, `Orientation` `handling`, `Ternary operators,` and `Dynamic Layout` (`Row` vs `Column`). |
+
+<br>
+
+| 🔹 Module 11 (Class 1): ListView & ListTile |🔹 Module 11 (Class 2): Grid |
+| :---: | :---: |
+|<img src="https://github.com/user-attachments/assets/74b19148-66d9-4963-8a0b-197d7f523932" width="400"/>|<br><br>|
+| **Concepts:**<br/>`ListView.builder`, `itemCount`, `itemBuilder`, `Card`, `ListTile`, `leading`, and `trailing`. | **Concepts:**<br/>`Coming Soon........`.|
 ---
 
 ## 🛠️ Tech Stack & Tools
