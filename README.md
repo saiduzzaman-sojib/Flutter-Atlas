@@ -23,20 +23,6 @@ Here is a glimpse of the core modules I have been practicing recently:
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>🔹 Module 9: Buttons & Gestures</h3>
-<img src="https://github.com/user-attachments/assets/c771807e-d6ed-4090-a7a4-20a45eb0d61c" width="400" />
-<br><br>
-<strong>Concepts</strong>
-<br>
-<code>ElevatedButton</code> ·
-<code>TextButton</code> ·
-<code>IconButton</code> ·
-<code>GestureDetector</code> ·
-<code>Container</code>
-<br>
-<code>Styling & Padding</code>
-</td>
-<td width="50%" align="center">
 <h3>🔹 Module 10: Text Inputs & Forms</h3>
 <img src="https://github.com/user-attachments/assets/0735ddcc-6cdd-4758-af4f-c699b0dd1207" width="400" />
 <br><br>
@@ -48,8 +34,6 @@ Here is a glimpse of the core modules I have been practicing recently:
 <br>
 <code>Input Decoration</code>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 <h3>🔹 Module 10 — Class 2: Advanced Forms & Login</h3>
 <img src="https://github.com/user-attachments/assets/65093ca0-0a9d-48a7-98da-1770d310170e" width="400" />
@@ -66,6 +50,8 @@ Here is a glimpse of the core modules I have been practicing recently:
 <code>obscureText</code> ·
 <code>InkWell</code>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
 <h3>🔹 Module 10 — Class 3: Responsive UI</h3>
 <img src="https://github.com/user-attachments/assets/62e7a738-a903-49f2-80ad-96bae8720a3e" width="400" />
@@ -80,8 +66,6 @@ Here is a glimpse of the core modules I have been practicing recently:
 <code>Row</code> ·
 <code>Column</code>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center">
 <h3>🔹 Module 11 — Class 1: ListView & ListTile</h3>
 <img src="https://github.com/user-attachments/assets/74b19148-66d9-4963-8a0b-197d7f523932" width="400" />
@@ -97,6 +81,8 @@ Here is a glimpse of the core modules I have been practicing recently:
 <code>leading</code> ·
 <code>trailing</code>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
 <h3>🔹 Module 11 — Class 2: GridView Builder</h3>
 <img src="https://github.com/user-attachments/assets/25621e1d-32af-420d-bd30-0fbf74576f61" width="400" />
@@ -109,18 +95,38 @@ Here is a glimpse of the core modules I have been practicing recently:
 <code>crossAxisCount</code> ·
 <code>Grid Styling</code>
 </td>
+<td width="50%" align="center">
+<h3>🔹 Module 11 — Class 3: Stack & Positioned UI</h3>
+<img src="https://github.com/user-attachments/assets/df12d468-f3b7-4246-8090-3c585df43318" width="400" />
+<br><br>
+<strong>Concepts</strong>
+<br>
+<code>Stack</code> ·
+<code>Positioned</code> ·
+<code>Alignment</code>
+<br>
+<code>Container Decoration</code> ·
+<code>IconButton</code>
+</td>
 </tr>
 </table>
 
 <br>
 <div align="center">
-  <h3><a href="Previous_Modules.md">📚 Explore Previous Modules & Archives</a></h3>
+  <h3><a href="Previous_Modules.md">📚 Explore Previous Modules & Archives</a></h3>
 </div>
 <br>
 
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+*   **Language:** Dart
+*   **Framework:** Flutter
+*   **Tools:** VS Code, macOS (M1), iOS Simulator, Git & GitHub
+
+---
 ## 🛠️ Tech Stack & Tools
 
 *   **Language:** Dart
