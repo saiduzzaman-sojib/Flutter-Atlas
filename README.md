@@ -97,7 +97,7 @@ Here is a glimpse of the core modules I have been practicing recently:
 </td>
 <td width="50%" align="center">
 <h3>🔹 Module 11 — Class 3: Stack & Positioned UI</h3>
-<img src="https://github.com/user-attachments/assets/df12d468-f3b7-4246-8090-3c585df43318" width="400" />
+<img src="https://github.com/user-attachments/assets/7f470fc2-16f2-4623-82b1-20013a1f79ce" width ="400" />
 <br><br>
 <strong>Concepts</strong>
 <br>
